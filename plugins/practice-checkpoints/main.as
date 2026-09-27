@@ -1778,7 +1778,7 @@ void BuildList()
         window.AddText(FormatTime(cp.time), 16).SetWidth(100);
         Muted(window.AddText(cp.airborne ? "in the air" : "on the ground", 14)).SetWidth(110);
         UI::Text@ source = window.AddText(cp.fromMap ? "map checkpoint" : "", 14);
-        source.SetWidth(110);
+        source.SetWidth(125);
         source.SetColor(LIVE_R, LIVE_G, LIVE_B, 0.85f);
         Muted(window.AddText(cp.attempts == 0 ? "" : cp.attempts + (cp.attempts == 1 ? " try" : " tries"), 14)).SetWidth(80);
         window.AddSpace(0);

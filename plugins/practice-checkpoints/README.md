@@ -4,6 +4,8 @@ Save the ball anywhere on a track, with its speed, and go back to it to practise
 [Ballest of Them All](https://store.steampowered.com/app/3339810/), through the
 [Ballest plugin manager](https://github.com/AnythingGoes-ballest/ballest-plugin-manager) (0.12.0 or later).
 
+![Practising on checkpoint 3: the practice timer, "practice · cp 3 / 4 · test · attempt 2", the red run indicator and the checkpoint markers](screenshots/practising.jpg)
+
 ## Practice can't post a time
 
 Going to a checkpoint turns the run into a **practice run**:
@@ -43,6 +45,8 @@ work too (PadA, PadLB, ...).
 - **Saved per map:** your checkpoints are still there the next time you play the map. In the track editor, save the map
   first.
 - **Attempts:** each checkpoint counts how many times you've gone to it this session.
+
+![The checkpoints window: export and import codes, and the list with names, go, reorder and delete](screenshots/window.jpg)
 
 ## Settings
 
