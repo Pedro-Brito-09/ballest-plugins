@@ -1,7 +1,7 @@
 [meta]
 name = "Practice Checkpoints"
 version = "0.3.0"
-author = "pedri"
+author = "Pedro"
 description = "Place your own checkpoints anywhere on a track, cycle through them and jump back to practice a section."
 min_host = "0.12.0"
 
