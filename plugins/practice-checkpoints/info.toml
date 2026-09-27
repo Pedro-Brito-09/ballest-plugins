@@ -1,0 +1,10 @@
+[meta]
+name = "Practice Checkpoints"
+version = "0.3.0"
+author = "pedri"
+description = "Place your own checkpoints anywhere on a track, cycle through them and jump back to practice a section."
+min_host = "0.12.0"
+
+[script]
+files = ["main.as"]
+assets = ["markers.txt", "legit.png", "practice.png"]

@@ -1,0 +1,45 @@
+# Practice checkpoint markers: 20 identical markers, one group each. The plugin detaches each group's actor from
+# the hat and places it on a checkpoint. Each ring is built 50000 below its actor (the plugin lifts the actor by as
+# much), so the model the host builds on the hat itself, before the plugin takes the actors, is out of sight
+# underground. Glowing ring around the ball's spot, slowly turning.
+material mark glow #30c8ff bright=8
+group m1 spin=z speed=60
+ring mark r=62 thick=3 at=0,0,-50000 rot=90,0,0
+group m2 spin=z speed=60
+ring mark r=62 thick=3 at=0,0,-50000 rot=90,0,0
+group m3 spin=z speed=60
+ring mark r=62 thick=3 at=0,0,-50000 rot=90,0,0
+group m4 spin=z speed=60
+ring mark r=62 thick=3 at=0,0,-50000 rot=90,0,0
+group m5 spin=z speed=60
+ring mark r=62 thick=3 at=0,0,-50000 rot=90,0,0
+group m6 spin=z speed=60
+ring mark r=62 thick=3 at=0,0,-50000 rot=90,0,0
+group m7 spin=z speed=60
+ring mark r=62 thick=3 at=0,0,-50000 rot=90,0,0
+group m8 spin=z speed=60
+ring mark r=62 thick=3 at=0,0,-50000 rot=90,0,0
+group m9 spin=z speed=60
+ring mark r=62 thick=3 at=0,0,-50000 rot=90,0,0
+group m10 spin=z speed=60
+ring mark r=62 thick=3 at=0,0,-50000 rot=90,0,0
+group m11 spin=z speed=60
+ring mark r=62 thick=3 at=0,0,-50000 rot=90,0,0
+group m12 spin=z speed=60
+ring mark r=62 thick=3 at=0,0,-50000 rot=90,0,0
+group m13 spin=z speed=60
+ring mark r=62 thick=3 at=0,0,-50000 rot=90,0,0
+group m14 spin=z speed=60
+ring mark r=62 thick=3 at=0,0,-50000 rot=90,0,0
+group m15 spin=z speed=60
+ring mark r=62 thick=3 at=0,0,-50000 rot=90,0,0
+group m16 spin=z speed=60
+ring mark r=62 thick=3 at=0,0,-50000 rot=90,0,0
+group m17 spin=z speed=60
+ring mark r=62 thick=3 at=0,0,-50000 rot=90,0,0
+group m18 spin=z speed=60
+ring mark r=62 thick=3 at=0,0,-50000 rot=90,0,0
+group m19 spin=z speed=60
+ring mark r=62 thick=3 at=0,0,-50000 rot=90,0,0
+group m20 spin=z speed=60
+ring mark r=62 thick=3 at=0,0,-50000 rot=90,0,0
